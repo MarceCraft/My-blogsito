@@ -6,6 +6,7 @@ aqui no es un blog real solo es una prueba repito es una prueba :)
 Para empezar github es una herramienta :
 * Con git que tiene una base de datos atomica
 * Se puede solicitar feedback mediante pull request
+* Creado por marcelo
 
 Esto esta en** negritas**
 
