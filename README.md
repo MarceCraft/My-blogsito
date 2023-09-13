@@ -7,6 +7,7 @@ Para empezar github es una herramienta :
 * Con git que tiene una base de datos atomica
 * Se puede solicitar feedback mediante pull request
 * Creado por marcelo
+* Incluye ejemplos en Windows,linux y mac
 
 Esto esta en** negritas**
 
